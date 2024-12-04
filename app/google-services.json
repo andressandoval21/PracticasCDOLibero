@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260876960823",
+    "project_id": "cdolpractica",
+    "storage_bucket": "cdolpractica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260876960823:android:540a1c6534a2048a932bb2",
+        "android_client_info": {
+          "package_name": "com.example.cdol3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeabWB3j9s6wxlzmuQpO_ekFJuNSnuGDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
