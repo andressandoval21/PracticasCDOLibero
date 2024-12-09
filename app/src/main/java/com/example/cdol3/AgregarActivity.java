@@ -23,7 +23,7 @@ import java.util.Map;
 public class AgregarActivity extends AppCompatActivity {
     private FirebaseFirestore db;
 
-    String[] colegio2 = {"Lozano", "himalaya","Maria Auxiliadora","Santander","Rosario","San Francisco","Sueños Maravillosos","San José","Normal de Pesca"
+    String[] colegio2 = {"Lozano", "himalaya","Maria Auxiliadora","Santander","Rosario","San Francisco","Sueños Maravillosos","San José","Normal de Pasca"
     ,"Manuel Aya","Los Periquillos","Humanos Competentes","Promoción Social"};
     String[] categoria2 = {"Camisa", "Pantalon","Chaqueta","Pantaloneta","Camibusos","Sudadera","Pantalon Azul"};
     String[] tallas2 = {"2","4","6","8","10","12","14","16","S","M","L","XL"};
